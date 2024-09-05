@@ -20,7 +20,7 @@ Simply run flappy_bird.py and watch an AI start training itself to play the game
 
 # Video Demo
 
-In the demo video below, the game initially starts with 18 birds, each bird representing their individual possibilities of movements during the game. The AI learns to play the game and in the 5th generation, it is performing optimmally while playing the game.
+In the demo video below, the game initially starts with 18 birds, each bird representing their individual possibilities of movements during the game. The AI learns to play the game and in the 5th generation, it is performing optimally while playing the game.
 
 https://github.com/user-attachments/assets/9acbbf63-ec2d-44a0-8ac6-930058f32079
 
